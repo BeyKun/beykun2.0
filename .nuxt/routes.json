@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\laragon\\\\www\\\\beykun\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_5f372384"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\laragon\\\\www\\\\beykun\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_54ff14d6"
+  }
+]
