@@ -190,55 +190,55 @@
             name: 'Jarvis',
             by: 'PT Telkom Indonesia',
             description: 'Application for collecting employees data from subsidiary',
-            image: '_nuxt/assets/images/jarvis.png'
+            image: 'assets/images/jarvis.png'
           },
           {
             name: 'I-Am Pertamina',
             by: 'PT Pertamina',
             description: 'HR Application for Job Promotion and Job Bidding',
-            image: '_nuxt/assets/images/greatpertamina.png'
+            image: 'assets/images/greatpertamina.png'
           },
           {
             name: 'JM Click 2.0 (Learning)',
             by: 'Jasa Marga Learning Institute',
             description: 'Admin Panel for JM Click 2.0 Learning Module',
-            image: '_nuxt/assets/images/jmli.png'
+            image: 'assets/images/jmli.png'
           },
           {
             name: 'Togas',
             by: 'PT Pertamina',
             description: 'Application for Audit and Monitoring SPBU Channel',
-            image: '_nuxt/assets/images/togas.png'
+            image: 'assets/images/togas.png'
           },
           {
             name: 'Software Excelent Report',
             by: 'Bank Mandiri Syariah',
             description: 'Monitoring Branch Application',
-            image: '_nuxt/assets/images/bsm.png'
+            image: 'assets/images/bsm.png'
           },
           {
             name: 'SERDADU Pancasila',
             by: 'Badan Pembinaan Ideologi Pancasila',
             description: 'Reporting Application for Pancasila Activities (Ministry)',
-            image: '_nuxt/assets/images/serdadu.png'
+            image: 'assets/images/serdadu.png'
           },
           {
             name: 'Simpul Kendali',
             by: 'Badan Pembinaan Ideologi Pancasila',
             description: 'Reporting Application for Pancasila Activities (Regional Goverment)',
-            image: '_nuxt/assets/images/simpulkendali.png'
+            image: 'assets/images/simpulkendali.png'
           },
           {
             name: 'Tax AR Sharp',
             by: 'PT Sharp Electronics Indonesia',
             description: 'Application for Tax Aging Report',
-            image: '_nuxt/assets/images/taxar.png'
+            image: 'assets/images/taxar.png'
           },
           {
             name: 'i-Monev',
             by: 'Badan Nasional Pengelola Perbatasan',
             description: 'Application for Monitoring and Evaluation Regional Office',
-            image: '_nuxt/assets/images/i-monev.png'
+            image: 'assets/images/i-monev.png'
           }
         ]
       }
