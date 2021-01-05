@@ -130,13 +130,85 @@
     <div class="text-center p-16 bg-gray-300">
       <h1 class="font-bold text-2xl">Portofolio</h1>
       <div class="grid md:grid-cols-4 mt-10 gap-6">
-       <div class="bg-white shadow-lg rounded-lg text-left" v-for="prt in portofolio" :key="prt.id">
-          <img class="rounded-t-lg" :src="prt.image">
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/jarvis.png">
           <div class="p-5">
-            <h4 class="font-bold text-xl mb-2">{{prt.name}}</h4>
-            <p class="text-sm mb-5">{{prt.description}}</p>
+            <h4 class="font-bold text-xl mb-2">Jarvis</h4>
+            <p class="text-sm mb-5">Application for collecting employees data from subsidiary</p>
 
-            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> {{prt.by}}</a>
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> PT Telkom Indonesia</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/greatpertamina.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">I-Am Pertamina</h4>
+            <p class="text-sm mb-5">HR Application for Job Promotion and Job Bidding</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> PT Pertamina</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/jmli.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">JM Click 2.0 (Learning)</h4>
+            <p class="text-sm mb-5">Admin Panel for JM Click 2.0 Learning Module</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> Jasa Marga Learning Institute</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/togas.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">Togas</h4>
+            <p class="text-sm mb-5">Application for Audit and Monitoring SPBU Channel</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> PT Pertamina</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/bsm.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">Software Excelent Report</h4>
+            <p class="text-sm mb-5">Monitoring Branch Application</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> Bank Mandiri Syariah</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/serdadu.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">SERDADU Pancasila</h4>
+            <p class="text-sm mb-5">Reporting Application for Pancasila Activities (Ministry)</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> Badan Pembinaan Ideologi Pancasila</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/simpulkendali.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">Simpul Kendali</h4>
+            <p class="text-sm mb-5">Reporting Application for Pancasila Activities (Regional Goverment)</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> Badan Pembinaan Ideologi Pancasila</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/taxar.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">Tax AR Sharp</h4>
+            <p class="text-sm mb-5">Application for Tax Aging Report</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i> PT Sharp Electronics Indonesia</a>
+          </div>
+       </div>
+       <div class="bg-white shadow-lg rounded-lg text-left">
+          <img class="rounded-t-lg" src="~assets/images/i-monev.png">
+          <div class="p-5">
+            <h4 class="font-bold text-xl mb-2">i-Monev</h4>
+            <p class="text-sm mb-5">Application for Monitoring and Evaluation Regional Office</p>
+
+            <a class="font-thin text-sm"><i class='bx bxs-institution'></i>Badan Nasional Pengelola Perbatasan</a>
           </div>
        </div>
      </div>
