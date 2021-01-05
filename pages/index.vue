@@ -149,7 +149,7 @@
           </div>
        </div>
        <div class="bg-white shadow-lg rounded-lg text-left">
-          <img class="rounded-t-lg" src="~assets/images/jmli.png">
+          <img class="rounded-t-lg" src="~assets/images/JMLI.png">
           <div class="p-5">
             <h4 class="font-bold text-xl mb-2">JM Click 2.0 (Learning)</h4>
             <p class="text-sm mb-5">Admin Panel for JM Click 2.0 Learning Module</p>
